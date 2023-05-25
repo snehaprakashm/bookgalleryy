@@ -1,0 +1,61 @@
+div{
+    width: 21%;
+    height: 350px;
+    float: left;
+    color: darkslategrey;
+    padding: 10px;
+    background-color: rgba(1, 1, 7, 0.808);
+    border: 3px solid rgb(0, 0, 0);
+margin-top: 10px;
+margin-right: 50px;
+margin: 65px;
+
+}
+img{
+    width: 40%;
+    height: 150px;
+    margin-left: 80px;
+}
+h1{
+    color: rgb(241, 241, 245);
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: beige;
+}
+
+body{
+    background-image: url("./image/pexels-abby-chung-1106468.jpg");
+background-size: cover;
+}
+p{
+    color: beige;
+}
+#a4{
+    margin top: 50px;
+}
+h6{
+    text-align: center;
+    color: antiquewhite;
+}
+#p1
+{text-align: center;
+}
+    
+    #p2{
+        text-align: center;}
+
+        
+        #p3{
+            text-align: center;
+        }
+        #p4{
+            text-align: center;
+        }
+        #p5{
+            text-align: center;
+        }
+        #p6{
+    text-align: center;
+}
